@@ -1,0 +1,2 @@
+# OpenCV-Stuff
+Exploring OpenCV
